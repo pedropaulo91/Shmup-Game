@@ -4,7 +4,7 @@ A Shoot'em Up game developed with Pygame. To play the game, just execute the "ga
 
 ![shmup_game](https://user-images.githubusercontent.com/7092619/51947898-91c08980-240d-11e9-9889-12e53e8f3882.jpg)
 
-The images I used are from: https://opengameart.org/content/space-shooter-redux \
+Images from: https://opengameart.org/content/space-shooter-redux \
 Background song: https://opengameart.org/content/magic-space
 
 
