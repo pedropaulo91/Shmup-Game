@@ -1,3 +1,4 @@
+![GitHub](https://img.shields.io/github/license/pedropaulo91/shmup-game)
 # Shmup-Game
 
 Um jogo do tipo Shoot'em Up desenvolvido com PyGame. Para jogar, execute o arquivo "game.py". Pressione a tecla de espaço para atirar nos meteoros que surgem do topo da tela. Para movimentar a nave, pressione a teclas de seta direita ou esquerda. Você começa com 5 vidas. Cada vez que um meteoro atinge a nave, uma vida é perdida. 
